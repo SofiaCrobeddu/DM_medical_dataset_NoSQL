@@ -41,3 +41,4 @@ The repositories are two:
   - `source.csv`: contains the source of information. Each source has an id a name (such as Wikidata, Drugbank, etc...) and the correspondent url. This dataset was not actually used and it is just put here for completeness.
   - `store.csv`: contains the store information. Each store has an id and a name.
   - `treatement.csv`: contains the treatements' information. Each treatment has an id, and it is connected to the others csv files through the columns source_id, drug_id and condition_id.
+- **script**: it contains the JavaScript codes for both the collections (`collections.js`) and the quieries (`queries.js`).
