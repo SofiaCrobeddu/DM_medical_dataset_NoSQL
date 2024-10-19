@@ -16,16 +16,16 @@ The aim of this project is to use a NoSQL tool like **MongoDB**, to manage and q
 
 It is a document-based tool for non-relational databases. Compared to softwares like pgadmin4 for SQL languages (relational databases), we can underline the following differences:
 - `MongoDB`:
- > document-oriented database;
- > it stores data in json like documents (no rows and columns);
- > good for unstructured data;
- > Java-like-language.
+ - document-oriented database;
+ - it stores data in json like documents (no rows and columns);
+ - good for unstructured data;
+ - Java-like-language.
 
 - `pgadmin4`:
- > for relational database;
- > it stores data in tables (rows and columns);
- > it uses schema(s) → good for structured data;
- > SQL language.
+ - for relational database;
+ - it stores data in tables (rows and columns);
+ - it uses schema(s) → good for structured data;
+ - SQL language.
 
 
 ## REPOSITORIES
