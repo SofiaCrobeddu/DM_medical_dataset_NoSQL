@@ -22,10 +22,10 @@ It is a document-based tool for non-relational databases. Compared to softwares 
   - Java-like-language.
 
 - `pgadmin4`:
- - for relational database;
- - it stores data in tables (rows and columns);
- - it uses schema(s) → good for structured data;
- - SQL language.
+  - for relational database;
+  - it stores data in tables (rows and columns);
+  - it uses schema(s) → good for structured data;
+  - SQL language.
 
 
 ## REPOSITORIES
